@@ -1,0 +1,15 @@
+C:\Users\carol\OneDrive\Documentos\ifro\tarefas do 2º\Po2\AtividadeHeranca\AtividadeHeranca\bin\Debug\net6.0\AtividadeHeranca.exe
+C:\Users\carol\OneDrive\Documentos\ifro\tarefas do 2º\Po2\AtividadeHeranca\AtividadeHeranca\bin\Debug\net6.0\AtividadeHeranca.deps.json
+C:\Users\carol\OneDrive\Documentos\ifro\tarefas do 2º\Po2\AtividadeHeranca\AtividadeHeranca\bin\Debug\net6.0\AtividadeHeranca.runtimeconfig.json
+C:\Users\carol\OneDrive\Documentos\ifro\tarefas do 2º\Po2\AtividadeHeranca\AtividadeHeranca\bin\Debug\net6.0\AtividadeHeranca.dll
+C:\Users\carol\OneDrive\Documentos\ifro\tarefas do 2º\Po2\AtividadeHeranca\AtividadeHeranca\bin\Debug\net6.0\AtividadeHeranca.pdb
+C:\Users\carol\OneDrive\Documentos\ifro\tarefas do 2º\Po2\AtividadeHeranca\AtividadeHeranca\obj\Debug\net6.0\AtividadeHeranca.csproj.AssemblyReference.cache
+C:\Users\carol\OneDrive\Documentos\ifro\tarefas do 2º\Po2\AtividadeHeranca\AtividadeHeranca\obj\Debug\net6.0\AtividadeHeranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carol\OneDrive\Documentos\ifro\tarefas do 2º\Po2\AtividadeHeranca\AtividadeHeranca\obj\Debug\net6.0\AtividadeHeranca.AssemblyInfoInputs.cache
+C:\Users\carol\OneDrive\Documentos\ifro\tarefas do 2º\Po2\AtividadeHeranca\AtividadeHeranca\obj\Debug\net6.0\AtividadeHeranca.AssemblyInfo.cs
+C:\Users\carol\OneDrive\Documentos\ifro\tarefas do 2º\Po2\AtividadeHeranca\AtividadeHeranca\obj\Debug\net6.0\AtividadeHeranca.csproj.CoreCompileInputs.cache
+C:\Users\carol\OneDrive\Documentos\ifro\tarefas do 2º\Po2\AtividadeHeranca\AtividadeHeranca\obj\Debug\net6.0\AtividadeHeranca.dll
+C:\Users\carol\OneDrive\Documentos\ifro\tarefas do 2º\Po2\AtividadeHeranca\AtividadeHeranca\obj\Debug\net6.0\refint\AtividadeHeranca.dll
+C:\Users\carol\OneDrive\Documentos\ifro\tarefas do 2º\Po2\AtividadeHeranca\AtividadeHeranca\obj\Debug\net6.0\AtividadeHeranca.pdb
+C:\Users\carol\OneDrive\Documentos\ifro\tarefas do 2º\Po2\AtividadeHeranca\AtividadeHeranca\obj\Debug\net6.0\AtividadeHeranca.genruntimeconfig.cache
+C:\Users\carol\OneDrive\Documentos\ifro\tarefas do 2º\Po2\AtividadeHeranca\AtividadeHeranca\obj\Debug\net6.0\ref\AtividadeHeranca.dll
