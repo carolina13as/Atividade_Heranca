@@ -54,7 +54,7 @@ namespace AtividadeHeranca.Clasess
             }
            catch(Exception ex)
             {
-                Console.WriteLine($"Erro: {ex.Message}");
+                Console.Write($"Erro: {ex.Message}");
             }
         }
 

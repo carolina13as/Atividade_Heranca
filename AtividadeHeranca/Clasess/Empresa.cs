@@ -52,11 +52,11 @@ namespace AtividadeHeranca.Clasess
                 {
                     if (valor > 5000)
                     {
-                        Saldo -= valor + 5;
+                        Console.Write($"{Saldo -= valor + 5}"); 
                     }
                     else
                     {
-                        Saldo -= valor;
+                        Console.Write($"{Saldo -= valor}"); 
                     }
                 }
             }

@@ -28,7 +28,7 @@ namespace AtividadeHeranca.Clasess
 
                 if (this.Saldo + ChequeEspe >= valor)
                 {
-                    Console.WriteLine(this.Saldo -= valor);
+                    Console.Write(this.Saldo -= valor);
 
                 }
             }
