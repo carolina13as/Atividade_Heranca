@@ -33,6 +33,7 @@ namespace AtividadeHeranca.Clasess
                 }
                 else
                 {
+
                     Console.WriteLine(Saldo -= saque);
                 }
 
@@ -50,7 +51,12 @@ namespace AtividadeHeranca.Clasess
         {
             try
             {
-                Console.WriteLine(Saldo += deposito);
+                if (deposito >= 0)
+                {
+                    Console.WriteLine(Saldo += deposito);
+                }
+                else { Console.WriteLine("Operação invalida"); }
+             
             }
            catch(Exception ex)
             {

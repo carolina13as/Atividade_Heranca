@@ -31,6 +31,7 @@ namespace AtividadeHeranca.Clasess
                     Console.Write(this.Saldo -= valor);
 
                 }
+                else { Console.WriteLine("Saldo insuficiente"); }
             }
             catch(Exception ex)
             {
