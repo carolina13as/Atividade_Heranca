@@ -50,7 +50,7 @@ namespace AtividadeHeranca.Clasess
 
                 if (this.Saldo >= valor)
                 {
-                    if (valor > 5000)
+                    if (valor >= 5000)
                     {
                         Console.Write($"{Saldo -= valor + 5}"); 
                     }
